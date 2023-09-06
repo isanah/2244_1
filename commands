@@ -1,0 +1,7 @@
+git clone
+git status
+git pull
+git diff
+git add . - to add files that you want to include in the commit. 
+git commit -m "commit changes"
+git log - verify the commit
