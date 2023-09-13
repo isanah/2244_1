@@ -1,3 +1,12 @@
 ## Git commands
 - git clone -> clones remote repo to local
-- 
+- git status - checks the status of repo
+- git pull - pulls from the origin 
+- git diff
+- git add . - to add files that you want to include in the commit. 
+- git commit -m "commit changes"
+- git log - verify the commit
+- git push 
+- git checkout -b <branchname> - to create new branch
+- git checkout <branchname> - to switch to a branch 
+-  git push -u origin git-branch - To push and set your current local branch to track the same-named remote branch on origin
